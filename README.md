@@ -1,6 +1,6 @@
 # ChatGPT-Electron-app-full-encryption
 
-Electron is a framework that allows you to build cross-platform desktop applications using web technologies. With Electron, you can incorporate native Node.js modules and interact with system APIs. Here's an example of how you can use Electron to incorporate the Win32 API calls and read a file:
+Electron is a framework that allows you to build cross-platform desktop applications using web technologies. With Electron, you can incorporate native Node.js modules and interact with system APIs. Here's an example of how you can use Electron to incorporate the Win32 API calls and do full encryption:
 
 Make sure you have Node.js and npm (Node Package Manager) installed on your system.
 
