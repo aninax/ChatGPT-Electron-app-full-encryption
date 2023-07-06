@@ -135,3 +135,6 @@ Open your command-line interface, navigate to the directory where you created yo
 ```
 electron .
 ```
+
+
+Please exercise caution and use this code responsibly. Modifying files indiscriminately can have unintended consequences and may violate privacy, security, or ethical guidelines. Ensure that you have proper authorization and adhere to legal and ethical standards when working with file operations.
