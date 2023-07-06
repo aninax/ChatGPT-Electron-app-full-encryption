@@ -1,0 +1,1 @@
+# ChatGPT-Electron-app-full-encryption
